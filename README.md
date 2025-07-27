@@ -15,3 +15,16 @@ Upload your photo and let our **AI-powered face recognition app** find your cele
 3. Features are extracted using ResNet50
 4. Compared with known Bollywood faces
 5. Your closest celebrity match is revealed!
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+
+![Screenshot 1](Screenshot%20(1428).png)
+![Screenshot 2](Screenshot%20(1420).png)
+![Screenshot 3](Screenshot%20(1427).png)
+![Screenshot 4](Screenshot%20(1419).png)
+![Screenshot 5](Screenshot%20(1423).png)
+![Screenshot 6](Screenshot%20(1424).png)
+![Screenshot 7](Screenshot%20(1421).png)
+![Screenshot 8](Screenshot%20(1418).png)
+![Screenshot 9](Screenshot 2025-07-27 115801.png)
