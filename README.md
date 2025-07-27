@@ -27,4 +27,4 @@ Upload your photo and let our **AI-powered face recognition app** find your cele
 ![Screenshot 6](Screenshot%20(1424).png)
 ![Screenshot 7](Screenshot%20(1421).png)
 ![Screenshot 8](Screenshot%20(1418).png)
-![Screenshot 9](Screenshot 2025-07-27 115801.png)
+![Screenshot 8](Screenshot%20(1430).png)
