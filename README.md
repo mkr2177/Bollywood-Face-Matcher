@@ -18,7 +18,6 @@ Upload your photo and let our **AI-powered face recognition app** find your cele
 ## 📸 Demo Screenshots
 
 ### 🖼️ App Preview
-
 ![Screenshot 1](Screenshot%20(1428).png)
 ![Screenshot 2](Screenshot%20(1420).png)
 ![Screenshot 3](Screenshot%20(1427).png)
